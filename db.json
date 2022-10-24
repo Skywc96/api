@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
     "avatar": "http://imglink",
     "name": "John",
@@ -23,4 +22,3 @@
   }
 ]
   
-}
