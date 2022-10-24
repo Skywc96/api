@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+
+  "users": [
+    {
+    "avatar": "http://imglink",
+    "name": "John",
+    "phone" :"0121234513",
+    "isActive": true,
+    "index": 1
+  },
+  {
+    "avatar": "http://imglink",
+    "name": "Wong",
+    "phone": "0121234523",
+    "isActive": true,
+    "index": 2
+  },
+  {
+    "avatar": "http://imglink",
+    "name": "Sky",
+    "phone": "0121234515",
+    "isActive": true,
+    "index": 3
+  }
+]
+  
+}
