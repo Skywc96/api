@@ -13,7 +13,7 @@
     "phone": "0121234523",
       "email" :"Wong@email.com",
     "isActive": true,
-    "index": 2
+    "index": 3
   },
   {
     "avatar": "https://i.postimg.cc/nVYWxccy/1-Male.png",
@@ -21,7 +21,7 @@
     "phone": "0121234515",
       "email" :"Sky@email.com",
     "isActive": false,
-    "index": 3
+    "index": 5
   },
       {
     "avatar": "https://i.postimg.cc/mg0jM0g3/1-Female.png",
@@ -29,7 +29,7 @@
     "phone": "0121234515",
       "email" :"Camilla@email.com",
     "isActive": true,
-    "index": 4
+    "index": 9
   },
       {
     "avatar": "https://i.postimg.cc/jd140GPV/2-Female.png",
@@ -37,7 +37,7 @@
     "phone": "0121234515",
       "email" :"Naomi@email.com",
     "isActive": false,
-    "index": 5
+    "index": 2
   },
       {
     "avatar": "https://i.postimg.cc/R077th89/2-Male.png",
@@ -45,7 +45,7 @@
     "phone": "0121234515",
       "email" :"Abbott@email.com",
     "isActive": false,
-    "index": 6
+    "index": 4
   },
       {
     "avatar": "https://i.postimg.cc/3R92L6Yc/3-Female.png",
@@ -69,7 +69,7 @@
     "phone": "0121234515",
       "email" :"Eugenia@email.com",
     "isActive": false,
-    "index": 9
+    "index": 6
   },
       {
     "avatar": "https://i.postimg.cc/W4vrsj4y/4-Male.png",
