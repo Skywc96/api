@@ -1,17 +1,20 @@
 [
     {
+    "avatar": "https://i.postimg.cc/bY7kpHWF/Default-Male.png",
     "name": "John",
     "phone" :"0121234513",
     "isActive": true,
     "index": 1
   },
   {
+    "avatar": "https://i.postimg.cc/bY7kpHWF/Default-Male.png",
     "name": "Wong",
     "phone": "0121234523",
     "isActive": true,
     "index": 2
   },
   {
+    "avatar": "https://i.postimg.cc/bY7kpHWF/Default-Male.png",
     "name": "Sky",
     "phone": "0121234515",
     "isActive": true,
